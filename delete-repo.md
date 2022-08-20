@@ -11,6 +11,6 @@ How to delete one repository? 如何删除一个 github 中的仓库？
 ![图片](./image/git-delete-02.jpg)
 
 - 3
-- 步骤3：二次确认，输入仓库名称，点击 `I understand the consequences, delete the repository`
+- 步骤3：二次确认，输入仓库名称，点击 `I understand the consequences, delete this repository`
 
 ![图片](./image/git-delete-03.jpg)
