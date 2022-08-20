@@ -18,8 +18,8 @@ just like this:
 ```plain
 [url description](url)
 
-[markdown-tips](https://github.com/mba1398/git_learning/blob/master/markdown-tips.md)
+[git_learning](https://github.com/mba1398/git_learning)
 ```
 just like this:
 
-[markdown-tips](https://github.com/mba1398/git_learning/blob/master/markdown-tips.md)
+[git_learning](https://github.com/mba1398/git_learning)
